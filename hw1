@@ -5,7 +5,7 @@
             <img src = "https://github.com/clara9999/Playground/blob/2e7b607e2e376a6ddcec20e5d8d40ab83b6a7d52/IMG_0365.jpeg">
         </td>
         <td>
-        ```swift
+        <code class="swift">
         import SwiftUI
         
         struct ContentView: View {
@@ -38,7 +38,7 @@
                     )
             }
         }
-        ```
+        </code>
         </td>
     </tr>
 </table>
