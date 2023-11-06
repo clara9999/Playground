@@ -38,3 +38,4 @@ struct ContentView: View {
                                 }}}
     
 ```
+<img width="40%"  src="https://github.com/clara9999/Playground/blob/main/IMG_0397.jpeg">
