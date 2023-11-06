@@ -26,5 +26,5 @@ import SwiftUI
     }
 ```
 <img width="40%"  src="https://github.com/clara9999/Playground/blob/main/IMG_0396.jpeg">
-<img width="40%"  src="https://github.com/clara9999/Playground/blob/main/IMG_0396.jpeg">
-<img width="40%"  src="https://github.com/clara9999/Playground/blob/main/IMG_0396.jpeg">
+<img width="40%"  src="https://github.com/clara9999/Playground/blob/main/IMG_0398.jpeg">
+<img width="40%"  src="https://github.com/clara9999/Playground/blob/main/IMG_0399.jpeg">
