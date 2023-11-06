@@ -1,9 +1,8 @@
-
 <h1> HW1 </h1>
 ```swift
         import SwiftUI
         
-        struct ContentView: View {
+struct ContentView: View {
             var body: some View {
                 Image("B")
                     .resizable()
