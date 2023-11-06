@@ -3,7 +3,7 @@
         import SwiftUI
         
 struct ContentView: View {
-            var body: some View {
+        var body: some View {
                 Image("B")
                     .resizable()
                     .aspectRatio(1, contentMode: .fill)
