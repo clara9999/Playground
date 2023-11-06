@@ -41,5 +41,7 @@ struct ContentView: View {
             )
     }
 }
-    
+
+
 ```
+<img width="40%"  src="https://github.com/clara9999/Playground/blob/8516822ead2e817e577c2e6ad15348a399aa9735/IMG_0365.jpeg">
