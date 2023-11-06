@@ -33,4 +33,4 @@ struct ContentView: View {
             }
         }
 ```
-<img width="40%"  src="https://github.com/clara9999/Playground/blob/5a4525ee1cde26232642cc1274481725ee5d4261/IMG_0365.jpeg">
+<img width="40%"  src="https://github.com/clara9999/Playground/blob/main/IMG_0365.jpeg">
