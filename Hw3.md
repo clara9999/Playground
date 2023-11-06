@@ -100,3 +100,5 @@ struct ContentView_Previews: PreviewProvider {
 }
 
 ```
+<img width="40%"  src="https://github.com/clara9999/Playground/blob/main/IMG_0394.jpeg">
+<img width="40%"  src="https://github.com/clara9999/Playground/blob/main/IMG_0395.jpeg">
